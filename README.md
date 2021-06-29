@@ -18,5 +18,6 @@ I currently work as a Backend developer
   - :heart: Cats and Dogs
   - :heart: Music
   - :heart: Git Flow
+  - :heart: Fedora OS
 
 - ⚡ Fun fact: I'm normal
