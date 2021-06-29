@@ -17,5 +17,6 @@ I currently work as a Backend developer
   - :heart: NoSQL
   - :heart: Cats and Dogs
   - :heart: Music
+  - :heart: Git Flow
 
 - ⚡ Fun fact: I'm normal
