@@ -3,7 +3,7 @@
 > “import passion as code”  
 
 I’m a **Backend Developer and Tech Lead** with 7+ years of experience building **cloud-native applications**, **financial APIs**, and **data pipelines**.  
-Originally from Brazil 🇧🇷 and currently based in France 🇫🇷 (valid work visa, open to hybrid or remote roles).  
+Originally from Brazil 🇧🇷 and currently based in France 🇫🇷.  
 
 ---
 
