@@ -1,45 +1,57 @@
-### 👋 Hi, I’m Izabela Ramos Ferreira  
+# Izabela Ramos Ferreira
+**Lead Software Developer — Backend & Distributed Systems**
 
-> “import passion as code”  
+I am a backend-focused software engineer with experience building reliable and scalable systems since 2017. My work spans fintech, data platforms, and SaaS products, with a strong focus on clean architecture and real-world problem solving.
 
-I’m a **Backend Developer and Tech Lead** with 7+ years of experience building **cloud-native applications**, **financial APIs**, and **data pipelines**.  
-Originally from Brazil 🇧🇷 and currently based in France 🇫🇷.  
-
----
-
-#### 🧩 What I do  
-- Architect and develop **Python microservices** with **FastAPI**, **Django**, and **Flask**  
-- Build **ETL & analytics pipelines** for fintech and energy sectors using **Airflow**, **Athena**, and **Pandas**  
-- Manage **CI/CD pipelines** with GitLab, Jenkins & Docker  
-- Deploy, secure and monitor production workloads on **AWS** and **Kubernetes**  
-- Mentor teams on clean code, GitFlow, and scalable API design  
+I have worked in Brazil and with international teams, including projects for U.S.-based companies such as IBM and Dell, and I am currently based in France contributing to data-driven and distributed systems at Logiroad.
 
 ---
 
-#### 🧠 Tech Stack  
-`Python` · `FastAPI` · `Django` · `Flask` · `SQLAlchemy`  
-`PostgreSQL` · `MySQL` · `MongoDB` · `Redis`  
-`AWS` (Lambda, RDS, S3, EKS, Athena)  
-`Airflow` · `Docker` · `Kubernetes` · `Terraform`  
-`Pytest` · `SonarQube` · `Checkmarx` · `CI/CD`  
+## Languages
 
-> 🐍 Easter egg: still debating if `import this` is the best module ever written.  
+- Portuguese — Native  
+- English — Fluent  
+- French — Fluent  
 
 ---
 
-#### 💡 About me  
-- Former **IBM Backend Developer** (Petrobras mission)  
-- Experience in **fintech**, **cloud infrastructure**, and **data engineering**  
-- Passionate about **code quality**, **automation**, and **problem-solving**  
-- Fluent in **Portuguese**, **English**, and **French**  
+## Technical Skills
+
+**Backend & Architecture**
+- Python (primary), API design, microservices, system design
+- Django, Flask, FastAPI
+
+**Cloud & Infrastructure**
+- AWS, Azure
+- Docker, Kubernetes, Argo Workflows
+- CI/CD pipelines (GitLab CI, Jenkins)
+
+**Data & Storage**
+- PostgreSQL, MySQL, Oracle
+- MongoDB, Redis
+- ETL pipelines, Airflow, Athena
+
+**Engineering Practices**
+- Clean architecture
+- Code quality (SonarQube, Checkmarx)
+- Testing and maintainability
+- Agile methodologies
 
 ---
 
-#### 📫 Get in touch  
-- 📧 **izabela.head@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/izabela-ramos-ferreira)  
-- 📍 Colombes, Île-de-France, France  
+## Experience Highlights
+
+- Led backend development and contributed to technical decisions in fintech platforms and SaaS products  
+- Designed APIs and systems handling financial transactions and high-volume data  
+- Built and optimized data pipelines for analytics and reporting  
+- Worked on cloud-based distributed systems with a focus on reliability and scalability  
+- Collaborated in international teams across different time zones and business domains  
 
 ---
 
-> “Code is poetry, and debugging is just learning the rhythm.”
+## About My Work
+
+I care about building systems that are clear, maintainable, and reliable in practice.  
+That means thinking beyond just making things work and focusing on how they behave over time, how they are maintained, and how they evolve.
+
+I value collaboration, straightforward communication, and continuous improvement in both code and processes.
